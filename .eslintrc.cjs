@@ -30,7 +30,7 @@ const config = {
       files: ["types/**/*.d.ts"],
       rules: {
         "@typescript-eslint/no-empty-interface": "off",
-        "@typescript-eslint/consistent-type-imports": "off"
+        "@typescript-eslint/consistent-type-imports": "off",
       },
     },
   ],

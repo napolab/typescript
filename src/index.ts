@@ -1,4 +1,3 @@
-
 import { config } from "dotenv";
 
 import { logger } from "@adapters/logger";
