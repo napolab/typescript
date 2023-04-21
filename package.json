@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "@napolab/typescript",
   "version": "0.0.0",
   "private": false,
   "type": "module",
@@ -53,5 +53,14 @@
     "@open-draft/logger": "^0.3.0",
     "dotenv": "^16.0.3",
     "neverthrow": "^6.0.0"
+  },
+  "volta": {
+    "node": "18.16.0",
+    "npm": "9.6.5"
+  },
+  "engines": {
+    "yarn": "Don't use 'yarn'!!! Please use 'npm'!!!",
+    "node": "18.16.0",
+    "npm": "9.6.5"
   }
 }
