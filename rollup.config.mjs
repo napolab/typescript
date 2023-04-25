@@ -33,4 +33,4 @@ export const typeConfig = defineConfig({
   plugins: [...config.plugins, dts({ tsconfig: "./tsconfig.json" })],
 });
 
-export default [config];
+export default [config, typeConfig];
