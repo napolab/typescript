@@ -55,10 +55,5 @@
   "volta": {
     "node": "18.16.0",
     "npm": "9.6.5"
-  },
-  "engines": {
-    "yarn": "Don't use 'yarn'!!! Please use 'npm'!!!",
-    "node": "18.16.0",
-    "npm": "9.6.5"
   }
 }
