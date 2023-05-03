@@ -24,16 +24,6 @@ const config = {
       },
     ],
   },
-
-  overrides: [
-    {
-      files: ["types/**/*.d.ts"],
-      rules: {
-        "@typescript-eslint/no-empty-interface": "off",
-        "@typescript-eslint/consistent-type-imports": "off",
-      },
-    },
-  ],
 };
 
 module.exports = config;
