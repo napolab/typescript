@@ -45,7 +45,7 @@
     "typescript": "^5.2.2",
     "vite": "^4.4.9",
     "vite-tsconfig-paths": "^4.2.0",
-    "vitest": "^0.33.0"
+    "vitest": "^0.34.0"
   },
   "dependencies": {
     "@open-draft/logger": "^0.3.0",
